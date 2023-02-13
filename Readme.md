@@ -1,3 +1,3 @@
 # TUMO Course Information Retrieval and Text Analysis
 
-Download the datasets from https://drive.google.com/file/d/1hjuJGhfNgKhQt8MOpSykHqlh8II8KjwP/view?usp=share_link
+Clone this repo with submodules to get the datasets as well: `git clone https://github.com/tom-auger/tumo-2023-irta.git --recurse-submodules`.
