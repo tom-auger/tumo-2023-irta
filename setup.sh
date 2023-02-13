@@ -1,6 +1,7 @@
 #!/bin/bash
 
-pip install numpy pystemmer notebook ipython-unittest
-pip install -U matplotlib
-pip install gensim
-pip install -U scikit-learn
+conda create --name tumo-irta python=3.10 notebook numpy matplotlib scikit-learn
+conda activate tumo-irta
+conda install -c conda-forge gensim
+pip install pystemmer
+
